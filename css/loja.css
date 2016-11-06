@@ -1,0 +1,28 @@
+body{
+	padding-top:50px;
+
+}
+
+.principal{
+	padding: 40px 15px;
+    text-align: center;
+}
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+.btnmuda:hover{
+
+    background: #072440;
+    
+}
+
+.span_red{
+	color: red;
+}
+
+.color_blue{
+	color: #286090;
+}
